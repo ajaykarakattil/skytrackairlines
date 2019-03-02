@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Register</title>
+</head>
+<body>
+<form name="register">
+Name :
+<input type="text" name="name" value=""/>
+<br>
+Phone :
+<input type="text" name="phone" value=""/>
+<br>
+DOB :
+<input type="text" name="dob" value=""/>
+<br>
+City:
+<input type="text" name="city" value=""/>
+<br>
+State:
+<input type="text" name="state" value=""/>
+<br>
+Country :
+<input type="text" name="country" value=""/>
+<br>
+Username :
+<input type="text" name="uname" value=""/>
+<br>
+Password:
+<input type="password" name="pass" value=""/>
+<br>
+<input type="submit" value="Register"/>
+<input type="Reset" value="Reset"/>
+<br><br>
+</form>
+
+
+
+
+
+</body>
+</html>
